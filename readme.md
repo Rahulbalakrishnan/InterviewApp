@@ -36,4 +36,5 @@ To run the app locally, follow these steps:
 
 Happy coding
 
-![](app/src/main/res/drawable/one.jpg) [](app/src/main/res/drawable/two.jpg) ![](app/src/main/res/drawable/three.jpg) ![](app/src/main/res/drawable/four.jpg)
+![](app/src/main/res/drawable/one.jpg) 
+![](app/src/main/res/drawable/two.jpg) ![](app/src/main/res/drawable/three.jpg) ![](app/src/main/res/drawable/four.jpg)
