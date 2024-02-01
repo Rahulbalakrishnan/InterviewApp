@@ -34,5 +34,6 @@ To run the app locally, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
-Happy coding!
+Happy coding
+
 ![](app/src/main/res/drawable/one.jpg) [](app/src/main/res/drawable/two.jpg) ![](app/src/main/res/drawable/three.jpg) ![](app/src/main/res/drawable/four.jpg)
