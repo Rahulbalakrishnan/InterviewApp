@@ -35,6 +35,4 @@ To run the app locally, follow these steps:
 3. Build and run the app on an emulator or physical device.
 
 Happy coding!
-
-![one.jpg](app/src/main/res/drawable/one.jpg) [two.jpg](app/src/main/res/drawable/two.jpg)
-![three.jpg](app/src/main/res/drawable/three.jpg) ![four.jpg](app/src/main/res/drawable/four.jpg)
+![](app/src/main/res/drawable/one.jpg) [](app/src/main/res/drawable/two.jpg) ![](app/src/main/res/drawable/three.jpg) ![](app/src/main/res/drawable/four.jpg)
