@@ -3,6 +3,7 @@
 This repository contains a Native Android app developed as part of an internship interview process for Listed Inc. OpenInApp. 
 The assignment involves creating the app from scratch based on a simple UI design provided as a Figma file.
 
+![](app/src/main/res/drawable/image.jpg) 
 
 ### Backend
 
@@ -34,7 +35,4 @@ To run the app locally, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
-Happy coding
-
-![](app/src/main/res/drawable/one.jpg) 
-![](app/src/main/res/drawable/two.jpg) ![](app/src/main/res/drawable/three.jpg) ![](app/src/main/res/drawable/four.jpg)
+Happy coding.
